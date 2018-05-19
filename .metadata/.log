@@ -1,0 +1,42 @@
+!SESSION 2006-05-27 17:26:03.641 -----------------------------------------------
+eclipse.buildId=M20060118-1600
+java.version=1.5.0_06
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.jdt.core 4 969 2006-05-27 17:38:00.51
+!MESSAGE main(com.sun.tools.javac.util.List) {key=Lcom/sun/tools/javac/comp/Enter;.main(Lcom/sun/tools/javac/util/List<Lcom/sun/tools/javac/tree/Tree;>;)V} [in Enter [in Enter.class [in com.sun.tools.javac.comp [in C:\Techno\Java\lib\tools.jar [in Genetica]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2006-05-27 17:38:00.71
+!MESSAGE main(com.sun.tools.javac.util.List) {key=Lcom/sun/tools/javadoc/JavadocEnter;.main(Lcom/sun/tools/javac/util/List<Lcom/sun/tools/javac/tree/Tree;>;)V} [in JavadocEnter [in JavadocEnter.class [in com.sun.tools.javadoc [in C:\Techno\Java\lib\tools.jar [in Genetica]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2006-05-27 18:43:22.972
+!MESSAGE main(com.sun.tools.javac.util.List) {key=Lcom/sun/tools/javac/comp/Enter;.main(Lcom/sun/tools/javac/util/List<Lcom/sun/tools/javac/tree/Tree;>;)V} [in Enter [in Enter.class [in com.sun.tools.javac.comp [in C:\Techno\Java\lib\tools.jar [in Genetica]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2006-05-27 18:43:22.992
+!MESSAGE main(com.sun.tools.javac.util.List) {key=Lcom/sun/tools/javadoc/JavadocEnter;.main(Lcom/sun/tools/javac/util/List<Lcom/sun/tools/javac/tree/Tree;>;)V} [in JavadocEnter [in JavadocEnter.class [in com.sun.tools.javadoc [in C:\Techno\Java\lib\tools.jar [in Genetica]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2006-05-27 18:45:20.541
+!MESSAGE main(com.sun.tools.javac.util.List) {key=Lcom/sun/tools/javac/comp/Enter;.main(Lcom/sun/tools/javac/util/List<Lcom/sun/tools/javac/tree/Tree;>;)V} [in Enter [in Enter.class [in com.sun.tools.javac.comp [in C:\Techno\Java\lib\tools.jar [in Genetica]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2006-05-27 18:45:20.571
+!MESSAGE main(com.sun.tools.javac.util.List) {key=Lcom/sun/tools/javadoc/JavadocEnter;.main(Lcom/sun/tools/javac/util/List<Lcom/sun/tools/javac/tree/Tree;>;)V} [in JavadocEnter [in JavadocEnter.class [in com.sun.tools.javadoc [in C:\Techno\Java\lib\tools.jar [in Genetica]]]]] does not exist
+!SESSION 2006-05-29 23:25:06.845 -----------------------------------------------
+eclipse.buildId=M20060118-1600
+java.version=1.5.0_06
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2006-05-29 23:25:12.924
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.
+!SESSION 2006-06-04 15:49:48.322 -----------------------------------------------
+eclipse.buildId=M20060118-1600
+java.version=1.5.0_06
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2006-06-04 15:50:10.131
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.

@@ -1,0 +1,16 @@
+#Sat May 27 17:37:40 BRT 2006
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.compiler.compliance=1.5
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Arquivos de programas/Java/jre1.5.0_06/lib/rt.jar
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.5
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.userLibrary.App\ Library=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="true" version\="1">\r\n\t<archive path\="C\:/Techno/Netbeans/platform6/modules/ext/swing-layout-1.0.jar"/>\r\n</userlibrary>\r\n
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=c\:/Techno/eclipse
+org.eclipse.jdt.core.builder.resourceCopyExclusionFilter=*.launch
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=c\:/Techno/eclipse/plugins/org.junit_3.8.1
+eclipse.preferences.version=1
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.source=1.5
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
